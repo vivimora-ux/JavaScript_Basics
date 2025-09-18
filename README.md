@@ -1,7 +1,7 @@
-// This is my first JavaScript code!
+This is my first JavaScript code!
 console.log('Hello World');
 
-// Declaring variables (undefined by default)
+Declaring variables (undefined by default)
 let name = 'Vivi';
 console.log(name);
 
