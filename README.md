@@ -36,18 +36,18 @@ console.log('Hello World');
     let selectedColour = null; // clear value of a variable  
 
 // Reference Types
-    let nombre = 'Vivi';
-    let edad = 30;
-    // Onject
-        let person = {
-            nombre: 'Vivi',
-            edad: '30'
-        };
+        let nombre = 'Vivi';
+        let edad = 30;
+        // Onject
+            let person = {
+                nombre: 'Vivi',
+                edad: '30'
+            };
         // Dot Notation
-        person.nombre = 'Laura';
-        console.log(person.nombre);
+            person.nombre = 'Laura';
+            console.log(person.nombre);
         // Bracket Notation
-        person['nombre'] = 'Migue';
-        console.log(person.nombre);
+            person['nombre'] = 'Migue';
+            console.log(person.nombre);
     // Array
     // Function
